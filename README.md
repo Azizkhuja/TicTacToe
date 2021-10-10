@@ -9,8 +9,9 @@ The application's stack is quite simple, too, including HTML, CSS, and JS.
 
 ## Programmers 
 
-[Azizkhuja](https://github.com/Azizkhuja)<br>
-[AzamovUz (me)](https://github.com/AzamovUz)
+[AzamovUz](https://github.com/AzamovUz)
+[Azizkhuja (me)](https://github.com/Azizkhuja)<br>
+
 
 ## The OOP process
 
