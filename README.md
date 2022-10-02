@@ -1,6 +1,6 @@
 # Tic-Tac-Toe
 
-![Screenshot](tictactoe.png)
+
 
 Simplistic web application of Tic-Tac-Toe, the two-player game that most of us grew up playing. You can check this 
 [demo](https://minetictactoe.netlify.app/) up, taking turns as X marker or O marker. Of course, you can share your computer with your partner, too. After the game ends, with the victory of one or another player or with the draw, you can restart the game. 
